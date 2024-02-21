@@ -1,0 +1,3 @@
+Dia1: Explorando Git
+Dia2: Aprendiendo sobre commits
+Dia3: Descubriendo ramas
