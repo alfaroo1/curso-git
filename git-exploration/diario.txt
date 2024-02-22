@@ -1,3 +1,4 @@
 Dia1: Explorando Git
 Dia2: Aprendiendo sobre commits
 Dia3: Descubriendo ramas
+Dia4: Nueva relfexion
